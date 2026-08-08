@@ -1,6 +1,6 @@
 ---
 name: Icon request
-about: Suggest an icon to add to this icon pack!
+about: Suggest an icon to add to this icon pack
 title: "[ICON-REQ]"
 labels: enhancement
 assignees: n1d3v
