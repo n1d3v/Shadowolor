@@ -2,8 +2,8 @@
 name: Icon update suggestion
 about: Suggest a change or update to a specific icon in the pack
 title: "[ICON-UPD]"
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: n1d3v
 
 ---
 
