@@ -2,7 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PackageName</key>
-	<string>Shadowolor</string>
+    <key>PackageName</key>
+    <string>Shadowolor</string>
+
+    <key>CalendarIconDaySettings</key>
+    <dict>
+        <key>TextColor</key>
+        <string>#FFFFFF</string>
+        <key>FontName</key>
+        <string>SFProText-Regular</string>
+        <key>FontSize</key>
+        <integer>10</integer>
+        <key>TextYoffset</key>
+        <real>-5.0</real>
+    </dict>
+
+    <key>CalendarIconDateSettings</key>
+    <dict>
+        <key>TextColor</key>
+        <string>#000000</string>
+        <key>FontName</key>
+        <string>SFProText-Regular</string>
+        <key>FontSize</key>
+        <integer>36</integer>
+    </dict>
 </dict>
 </plist>
