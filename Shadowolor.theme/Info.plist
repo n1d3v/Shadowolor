@@ -12,7 +12,7 @@
         <key>FontName</key>
         <string>SFProText-Regular</string>
         <key>FontSize</key>
-        <integer>10</integer>
+        <integer>9</integer>
         <key>TextYoffset</key>
         <real>-5.0</real>
     </dict>
